@@ -1,0 +1,5 @@
+backend/dataset/val/
+    ├── Disease1/
+    │   ├── img1.jpg
+    ├── Disease2/
+    │   ├── img1.jpg
